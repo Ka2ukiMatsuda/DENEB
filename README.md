@@ -5,11 +5,6 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2409.19255-B31B1B)](https://arxiv.org/abs/2409.19255)
 [![Available in CaptionEvalKit](https://img.shields.io/badge/available%20in-CaptionEvalKit-blue)](https://github.com/YuigaWada/CaptionEvalKit-for-VLMs)
 
-- Accepted at ACCV 2024
-- 🌐 [project page](https://deneb-project-page-nc03k.kinsta.page/)
-- 📄 [arXiv](https://arxiv.org/abs/2409.19255)
-- 🤗 [Dataset](https://huggingface.co/datasets/Ka2ukiMatsuda/Nebula)
-
 <p align="center">
   <img src="https://i.imgur.com/DWKCax6.png" alt="Example Image" width="500"/>
 </p>
